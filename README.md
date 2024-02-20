@@ -15,6 +15,93 @@
 
 
 # Tools and Technologies
+**[LANGUAGES]()**
+
+**★ JAVA**
+
+**★ JAVASCRIPT**
+
+**★ PYTHON**
+
+**[TOOLS]()**
+
+**★ Gradle**
+
+**★ Jira**
+
+**★ Confluence**
+
+**★ Figma**
+
+**★ Git**
+
+**★ Jenkins**
+
+**★ Docker**
+
+**★ Kubernetes**
+
+**[FRONT END]()**
+
+**★ HTML**
+
+**★ CSS**
+
+**★ AJAX**
+
+**★ DOM**
+
+**★ JavaScript**
+
+**★ React JS**
+
+**★ NPM**
+
+**★ Next JS**
+
+**[BACK END]()**
+
+**★ Node JS**
+
+**★ Express JS**
+
+**★ PostgreSQL**
+
+**★ Restful APIs Implementation**
+
+**★ Authentication - OAuth, OpenID**
+
+**★ Authorization  - JWT**
+
+**★ Web Security - HTTPS, XSS, CSRF**
+
+**★ Caching**
+
+**★ Web Sockets**
+
+**★ Web Hosting**
+
+**[COMPUTER FUNDAMENTALS]()**
+
+**★ Operating System**
+
+**★ Computer Networking**
+
+**★ DBMS**
+
+**[Other]()**
+
+**★ Data Structures and Algorithm**
+
+**★ Tomcat Web Server**
+
+**★ AWS Cloud Service Provider Basics**
+
+**★ Azure Cloud Service Provider Basics**
+
+**★ Low Level System Design**
+
+**★ Linux Basics**
 
 
 # Education
