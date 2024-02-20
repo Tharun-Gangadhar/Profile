@@ -10,11 +10,40 @@
 
 # Awards
 
+**[Best Intern Award]()**
+
+**[Best Employee of Quater]()**
+
+
+# Training Certifications
+
+**[Gradle]()**
+
+**[Git]()**
+
+**[Cucumber]()**
+
+**[React]()**
+
+**[DBMS]()**
 
 # Projects
 
+**[MongoDB Project]()**
+
+**[Portfolio Project]()**
+
+**[Cloud Project]()**
+
+**[Data Management Project]()**
+
+**[A-Z Full Stack Project]()**
+
+**[Data Analysis Project]()**
+
 
 # Tools and Technologies
+
 **[LANGUAGES]()**
 
 **★ JAVA**
@@ -25,13 +54,19 @@
 
 **[TOOLS]()**
 
-**★ Gradle**
-
 **★ Jira**
 
 **★ Confluence**
 
 **★ Figma**
+
+**★ VS Code**
+
+**★ Intellij Idea**
+
+**★ VM Ware Workstation**
+
+**★ Gradle**
 
 **★ Git**
 
