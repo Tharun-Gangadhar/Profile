@@ -141,8 +141,14 @@
 
 # Education
 
-[University of Visvesvaraya College of Engineering](https://uvce.ac.in/) **::: 2018-2022 ::: B.Tech ::: Electronics and Communications Engineering**
+[University of Visvesvaraya College of Engineering, Bengaluru](https://uvce.ac.in/) **(2018-2022)**
 
-[SBGNS Rural Composite PU College](https://schools.org.in/chikkaballapura/29290324951/sbgns-rural-pu-college-agalagurki.html) **::: 2016-2018 ::: PUC ::: PCMB**
+**B.Tech in Electronics and Communications Engineering**
 
-[St. Thomas English School, Melur]() **::: 2006-2016 ::: Primary and High School ::: State Board Karnataka**
+[SBGNS Rural Composite PU College, Chikkballapur](https://schools.org.in/chikkaballapura/29290324951/sbgns-rural-pu-college-agalagurki.html) **(2016-2018)**
+
+**PUC in PCMB**
+
+[St. Thomas English School, Melur]() **(2006-2016)** 
+
+**Primary and High School in State Board Karnataka**
