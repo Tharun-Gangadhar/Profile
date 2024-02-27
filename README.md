@@ -25,7 +25,7 @@
 
 **[React]()**
 
-**[DBMS]()**
+**[AWS DevOps]()**
 
 # Projects
 
@@ -76,6 +76,8 @@
 
 **★ Kubernetes**
 
+**★ Ansible**
+
 **[FRONT END]()**
 
 **★ HTML**
@@ -91,8 +93,6 @@
 **★ React JS**
 
 **★ NPM**
-
-**★ Next JS**
 
 **[BACK END]()**
 
@@ -112,7 +112,7 @@
 
 **★ Caching**
 
-**★ Web Sockets**
+**★ Web Sockets - Socket.io**
 
 **★ Web Hosting**
 
@@ -130,9 +130,7 @@
 
 **★ Tomcat Web Server**
 
-**★ AWS Cloud Service Provider Basics**
-
-**★ Azure Cloud Service Provider Basics**
+**★ AWS DevOps**
 
 **★ Low Level System Design**
 
