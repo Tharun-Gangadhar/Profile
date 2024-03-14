@@ -52,31 +52,6 @@
 
 **★ PYTHON**
 
-**[TOOLS]()**
-
-**★ Jira**
-
-**★ Confluence**
-
-**★ Figma**
-
-**★ VS Code**
-
-**★ Intellij Idea**
-
-**★ VM Ware Workstation**
-
-**★ Gradle**
-
-**★ Git**
-
-**★ Jenkins**
-
-**★ Docker**
-
-**★ Kubernetes**
-
-**★ Ansible**
 
 **[FRONT END]()**
 
@@ -116,6 +91,42 @@
 
 **★ Web Hosting**
 
+
+**[AWS DevOps]()**
+
+**★ Cloud9**
+
+**★ CodeCommit**
+
+**★ CodeBuild**
+
+**★ CodeDeploy**
+
+**★ CodePipeline**
+
+**★ CloudFormation**
+
+**[DevOps]()**
+
+**★ Git**
+
+**★ Gradle**
+
+**★ Jenkins**
+
+**★ Docker**
+
+**★ Kubernetes**
+
+**★ Ansible**
+
+**★ Chef**
+
+**★ JUnit**
+
+**★ Postman**
+
+
 **[COMPUTER FUNDAMENTALS]()**
 
 **★ Operating System**
@@ -124,13 +135,25 @@
 
 **★ DBMS**
 
+**[TOOLS]()**
+
+**★ Jira**
+
+**★ Confluence**
+
+**★ Figma**
+
+**★ VS Code**
+
+**★ Intellij Idea**
+
+**★ VM Ware Workstation**
+
 **[Other]()**
 
 **★ Data Structures and Algorithm**
 
 **★ Tomcat Web Server**
-
-**★ AWS DevOps**
 
 **★ Low Level System Design**
 
@@ -146,6 +169,7 @@
 [SBGNS Rural Composite PU College, Chikkballapur](https://schools.org.in/chikkaballapura/29290324951/sbgns-rural-pu-college-agalagurki.html) **(2016-2018)**
 
 **PUC in PCMB**
+**★ **
 
 [St. Thomas English School, Melur]() **(2006-2016)** 
 
